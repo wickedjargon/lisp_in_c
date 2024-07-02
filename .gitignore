@@ -1,0 +1,16 @@
+# Ignore object files and executables
+*.o
+lisp
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore editor backup and swap files
+*~
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
