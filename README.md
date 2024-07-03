@@ -17,3 +17,10 @@ To compile the project, simply run:
 ```sh
 make
 ```
+
+and run the binary file
+
+``` shell
+./lisp
+```
+
